@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  font-family: "Raleway", sans-serif;
+}
+
+header {
+  background-image: url("../img/bg-hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+
+}
+
+/*
+
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+.nav-item {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  color:#373A3C;
+}
+
+  .nav-item a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    color: white;
+
+}
+.texto h2{
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 60px;
+  color: #707070;
+}
+
+.bgcolor {
+  background-color: #373A3C;
+}
+
+.pagos {
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+}
+
+.card {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  color: #373A3C;
+}
+
+.bg_color {
+  background-color: #17A2B8;
+
+}
+ */ 
